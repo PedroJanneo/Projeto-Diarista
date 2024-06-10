@@ -5,4 +5,4 @@ De maneira simples, o projeto faz perguntas sobre uma contratação ficticia de 
 
 # Tecnologias usadas:
 
-- ``JAVA``# Projeto-diarista
+- ``JAVA``
